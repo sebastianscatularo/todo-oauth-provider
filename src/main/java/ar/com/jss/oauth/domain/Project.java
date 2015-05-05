@@ -1,4 +1,4 @@
-package ar.com.jss.domain;
+package ar.com.jss.oauth.domain;
 
 import java.util.List;
 
