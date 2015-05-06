@@ -1,4 +1,4 @@
-package ar.com.jss.oauth.domain;
+package ar.com.clustercero.oauth.domain;
 
 import java.util.Date;
 import java.util.List;

@@ -1,5 +1,5 @@
 {
-  "name": "todo",
+  "name": "todo-oauth-provider",
   "version": "1.0.0",
   "description": "Todo tasks dashboard",
   "main": "index.js",
@@ -8,9 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "aglio": "aglio -i api-doc.md --server"
   },
-  "author": "",
+  "author": "Sebastian Scatularo <sebastianscatularo@gmail.com>",
   "license": "ISC"
 }

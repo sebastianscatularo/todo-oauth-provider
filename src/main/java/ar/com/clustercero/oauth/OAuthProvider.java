@@ -1,10 +1,10 @@
-package ar.com.jss.oauth;
+package ar.com.clustercero.oauth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @autor Sebastian Scatularo <sebastianscatularo@gmail.com>
+ * @author Sebastian Scatularo <sebastianscatularo@gmail.com>
  */
 @SpringBootApplication
 public class OAuthProvider {

@@ -1,10 +1,3 @@
-# Entity Objects
+# OAuth documentation
 
-User
-Project
-Task
-
-# Value Object
-
-Label
-
+npm aglio

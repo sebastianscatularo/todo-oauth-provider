@@ -1,4 +1,4 @@
-package ar.com.jss.oauth.domain;
+package ar.com.clustercero.oauth.domain;
 
 import org.joda.time.DateTime;
 
