@@ -7,7 +7,7 @@ deploy:
   user: scatu637@yahoo.com.ar
   password:
     secure: ZjMi7qYQD23wuzjRPnsSnujQ5B+RWCroXrdY9d7ky/kQyJb5yduZtn7Ll25ClhSCoduWK/uo4ah4jHQ0hE61DHbYD8tnwq+ZUNfq29nJUNjSnSawm9dxfqwq40zfDmyAtBU03wUMkxNVldpyrTbJXK5Xf2BUM6Smm0ykWSmSEIg=
-  app: todo-oauth-provider
-  domain: oauth
+  app: oauth
+  domain: hobbiton
   on:
     repo: sebastianscatularo/todo-oauth-provider
