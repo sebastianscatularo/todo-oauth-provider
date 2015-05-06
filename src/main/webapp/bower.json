@@ -1,0 +1,34 @@
+{
+  "name": "todo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sebastianscatularo/todo",
+  "authors": [
+    "Sebastian Scatularo <sebastianscatularo@gmail.com>"
+  ],
+  "description": "TODO list dashboard",
+  "main": "index.html",
+  "keywords": [
+    ""
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "require": "*",
+    "handlebars": "~3.0.0",
+    "requirejs": "~2.1.17",
+    "jquery": "~2.1.3",
+    "requirejs-text": "~2.0.14",
+    "bootstrap": "~3.3.4",
+    "eventbus": "*",
+    "EventBus": "~1.0.2",
+    "requirejs-router": "~0.8.0",
+    "ractive": "~0.7.2",
+    "requirejs-ractive": "~0.1.8"
+  }
+}
